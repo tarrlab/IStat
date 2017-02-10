@@ -7,3 +7,4 @@ I have recompiled the source for Mac OS X if anyone is interested. I never heard
 ## man pages
 I recommend putting these man pages in /usr/local/share/man/man1 (which you definitely will need to add to your MANPATH).
 
+(--Michael Tarr)
